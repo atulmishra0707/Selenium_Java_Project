@@ -8,6 +8,7 @@
 	<name>Selenium_Java_Project</name>
 	<description>Selenium_Java_Project</description>
 	<dependencies>
+		<!-- http://www.seleniumhq.org/docs/03_webdriver.jsp  for WebDriver details -->
 		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
