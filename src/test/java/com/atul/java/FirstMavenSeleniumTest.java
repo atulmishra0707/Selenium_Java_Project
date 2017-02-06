@@ -13,6 +13,9 @@ import org.testng.annotations.Test;
 public class FirstMavenSeleniumTest {
 	
 	public static WebDriver webDriver;
+	
+	// TestNG Eclipse Composite P2 Repo - http://beust.com/eclipse/
+	
   @Test
   public void fc_1() {	  
 	  //System.out.println("Hello");
