@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.646">
+  <properties />
+  
+  
+            <testcase name="fc_1" time="5.468" classname="com.atul.java.FirstSeleniumTest" />
+                <testcase name="fc_2" time="0.178" classname="com.atul.java.FirstSeleniumTest" />
+      
+</testsuite>
